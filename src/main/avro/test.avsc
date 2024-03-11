@@ -1,0 +1,18 @@
+{
+  "namespace": "com.test",
+  "type": "record",
+  "name": "Test",
+  "fields": [
+    {
+      "name": "t",
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    {
+      "name": "e",
+      "type": "int"
+    }
+  ]
+}
